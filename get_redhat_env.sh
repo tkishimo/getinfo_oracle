@@ -8,3 +8,5 @@ cat /etc/sysconfig/grub
 cat /etc/fstab
 cat /etc/sysconfig/network
 cat /etc/systemd/logind.conf
+cat /home/grid/.bash_profile
+cat /home/oracle/.bash_profile
