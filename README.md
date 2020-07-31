@@ -6,5 +6,5 @@ sqlplus / as sysdba @getinfo.sql<br>
 <p/>
 <p>
 2.check log file<br>
-please check "dbinfo.log" on current directory<br>
+please check "dbinfo.log" and "getinfo.log" on current directory<br>
 <p/>
